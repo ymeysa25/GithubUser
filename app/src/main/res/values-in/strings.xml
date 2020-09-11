@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">NAME</string>
+    <string name="username">nama pengguna</string>
+    <string name="Location">Lokasi</string>
+    <string name="repo_value">-</string>
+    <string name="repository">Repositori</string>
+    <string name="follower_value">-</string>
+    <string name="followers">Pengikut</string>
+    <string name="following_value">-</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+
+    <!--    Setting-->
+    <string name="one_time_alarm">Satu Kali Alarm</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="set_one_time_alarm">Setel Satu kali alarm</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="repeating_alarm">Ulangi Alarrm</string>
+    <string name="set_repeating_alarm">Setel Ulangi Alarrm</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_time">Waktu Alarm</string>
+
+    <string name="alarm_reminder">Ayo Kunjungi lagi User Favoritmu</string>
+
+    <string name="appwidget_text">Pengguna yang Disenangi</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+
+</resources>

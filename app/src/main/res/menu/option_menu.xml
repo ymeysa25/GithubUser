@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mysearch"
+        android:icon="@drawable/ic_search_white_24px"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="collapseActionView|always" />
+    <group android:menuCategory="container">
+        <item android:id="@+id/itfav"
+            android:title="Favorites"
+            android:icon="@drawable/fav"
+            app:showAsAction="always"
+             />
+        <item android:id="@+id/itsetting"
+            android:title="Setting"
+            android:icon="@drawable/setting"
+            app:showAsAction="always"
+            />
+<!--        <item android:title="TODO" />-->
+    </group>
+</menu>

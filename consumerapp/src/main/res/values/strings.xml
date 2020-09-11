@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Enter your word </string>
+    <string name="name">NAME</string>
+    <string name="username">username</string>
+    <string name="Location">Location</string>
+    <string name="repo_value">-</string>
+    <string name="repository">Repository</string>
+    <string name="follower_value">-</string>
+    <string name="followers">followers</string>
+    <string name="following_value">-</string>
+    <string name="following">following</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+
+    <!--    Setting-->
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="alarm_date">Alarm Dates</string>
+    <string name="set_one_time_alarm">Set One Time Alarm</string>
+    <string name="alarm_message">Alarm Message</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="alarm_time">Alarm time</string>
+</resources>
